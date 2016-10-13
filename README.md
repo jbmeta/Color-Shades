@@ -7,4 +7,4 @@ The program structure is very simple.
 3. Add red, green, blue buttons take the original colour in RGB model stored in COOKIES and adds red, green or blue to the composition and calls the getHSL() function to do step 2.
 
 ![alt text](https://github.com/jbmeta/Color-Shades/blob/master/snapshot1.JPG)
-![alt text](https://github.com/jbmeta/Color-Shades/blob/master/snapshot2.JPG)
+![alt text](https://github.com/jbmeta/Color-Shades/blob/master/snapshot2.jpg)
